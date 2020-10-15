@@ -2,7 +2,7 @@
 
 This is the code for the paper "Invertible Neural BRDF for Object Inverse Rendering".
 
-## Prerequesties
+## Prerequisites
 
 1. A C++ 17-compatible compiler
 2. CUDA 10.2
